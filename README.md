@@ -30,7 +30,7 @@ Bu repo, rastgele yazılmış kod parçacıklarından ibaret değildir; kurumsal
 * ⚙️ **`08_Methods`** — Kod tekrarını önleyen (DRY Prensibi) modüler yapılar, `void` ve `return` tipli metotlarla temel iş mantığı (Business Logic) inşası.
 
 ### 💽 Aşama 4: Veritabanı ve Backend Entegrasyonu
-* 🚀 **`09_DatabaseProject`** — ADO.NET altyapısı, SQL Server entegrasyonu (`SqlConnection`), C# üzerinden T-SQL komutlarının yürütülmesi ve veri erişim (Data Access) temelleri.
+* 🚀 **`09_DatabaseProject`** — ADO.NET altyapısı SQL Server entegrasyonu (`SqlConnection`), C# üzerinden T-SQL komutlarının yürütülmesi ve veri erişim (Data Access) temelleri.
 
 ---
 *Geleceği kodluyor, her gün bir önceki günden daha iyi bir mimari kurmak için çalışıyorum.* 💻
