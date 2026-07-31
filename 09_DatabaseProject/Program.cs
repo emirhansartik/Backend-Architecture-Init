@@ -37,6 +37,7 @@ namespace _09_DatabaseProject
             SqlDataAdapter adapter = new SqlDataAdapter(command);
             DataTable dataTable = new DataTable();
             adapter.Fill(dataTable);
+            connection.Close();
 
             foreach (DataRow row in dataTable.Rows) { 
                 
@@ -46,8 +47,6 @@ namespace _09_DatabaseProject
                 }
                 Console.WriteLine();
             }
-            connection.Close();
-
             Console.Read();
         }
     }
