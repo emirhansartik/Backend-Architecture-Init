@@ -31,6 +31,7 @@ Bu repo, rastgele yazılmış kod parçacıklarından ibaret değildir; kurumsal
 
 ### 💽 Aşama 4: Veritabanı ve Backend Entegrasyonu
 * 🚀 **`09_DatabaseProject`** — ADO.NET altyapısı SQL Server entegrasyonu (`SqlConnection`), C# üzerinden T-SQL komutlarının yürütülmesi ve veri erişim (Data Access) temelleri.
+ * 🛠️ **`10_DatabaseCrud`** — Veritabanı üzerinde CRUD (Create, Read, Update, Delete) operasyonları, C# ile veri manipülasyonu (Insert, Update, Delete) ve dinamik kayıt yönetimi.
 
 ---
 *Geleceği kodluyor, her gün bir önceki günden daha iyi bir mimari kurmak için çalışıyorum.* 💻
