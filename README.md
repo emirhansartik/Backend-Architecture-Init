@@ -2,7 +2,7 @@
 
 Merhaba! Ben Emirhan. Mevcut kurumsal web projeleri ve teknik SEO çözümleri üzerine olan tecrübemi, sağlam ve ölçeklenebilir backend mimarileriyle birleştirmek üzere yoğun bir gelişim sürecindeyim.
 
-Bu depo (repository), Full-Stack yetkinliklerimi inşa ederken C# ve .NET dünyasına attığım ilk sağlam adımları içermektedir. Amacım sadece kod yazmak değil; temiz kod (Clean Code) prensiplerine uygun, nesne yönelimli ve sürdürülebilir sistemler kurmaktır.
+Bu depo (repository)  Full-Stack yetkinliklerimi inşa ederken C# ve .NET dünyasına attığım ilk sağlam adımları içermektedir. Amacım sadece kod yazmak değil; temiz kod (Clean Code) prensiplerine uygun, nesne yönelimli ve sürdürülebilir sistemler kurmaktır.
 
 ## 🎯 Gelişim Hedefi ve Vizyon
 Şu an aktif olarak zamanımın tamamını kendimi geliştirmeye adadığım bir kamp dönemindeyim. Web tarafındaki tecrübelerimi, arka planda çalışan güçlü bir ASP.NET Core mimarisiyle entegre ederek sektörde fark yaratan, uçtan uca kurumsal çözümler üretmeyi hedefliyorum.
